@@ -21,7 +21,7 @@ Due to the highly imbalanced nature of fraud data, this project focuses on data 
 
 📁 Dataset
 
-Credit Card Transactions Dataset
+Credit Card Transactions Dataset (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 Target Variable:
 
